@@ -1,0 +1,14 @@
+.line{
+    width: 70px;
+    background-color: black;
+    height: 6px;
+    margin: auto;
+}
+
+body{
+    text-align: center;
+}
+
+img:hover {
+    transform:scale(0.9);
+}
